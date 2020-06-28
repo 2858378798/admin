@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SimpleDateFormat sdf1 = new SimpleDateFormat(&quot;yyyyMMdd&quot;); String time1 = sdf1.format(new Date()); String RC=&quot;rc&quot;; int s=(int)((Math.random()*9+1)*100000); private String excelserverrcid=RC+time1+s; public String getExcelserverrcid() { return excelserverrcid; } public void setExcelserverrcid(String excelserverrcid) { this.excelserverrcid = excelserverrcid; }" />
       <item value="java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [NonLoginAuthenticator[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]] at java.util.concurrent.FutureTask.report(FutureTask.java:122) at java.util.concurrent.FutureTask.get(FutureTask.java:192)" />
       <item value="A child container failed during start" />
       <item value="Caused by: org.apache.catalina.LifecycleException: Failed to start component [NonLoginAuthenticator[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]]" />
@@ -10,8 +11,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
