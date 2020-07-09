@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="七月 09, 2020 10:07:21 上午 org.apache.catalina.core.StandardWrapperValve invoke 严重: Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NumberFormatException: For input string: &quot;2020070800055&quot;] with root cause java.lang.NumberFormatException: For input string: &quot;2020070800055&quot;" />
       <item value="; bad SQL grammar []; nested exception is com.microsoft.sqlserver.jdbc.SQLServerException: 对象名 'SBK_COPTD' 无效。] with root cause com.microsoft.sqlserver.jdbc.SQLServerException: 对象名 'SBK_COPTD' 无效。" />
       <item value="For more information about the errors and possible solutions, please read the following articles:" />
       <item value="SimpleDateFormat sdf1 = new SimpleDateFormat(&quot;yyyyMMdd&quot;); String time1 = sdf1.format(new Date()); String RC=&quot;rc&quot;; int s=(int)((Math.random()*9+1)*100000); private String excelserverrcid=RC+time1+s; public String getExcelserverrcid() { return excelserverrcid; } public void setExcelserverrcid(String excelserverrcid) { this.excelserverrcid = excelserverrcid; }" />
@@ -14,7 +15,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
