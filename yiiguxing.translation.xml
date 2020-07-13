@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hoag FK Dcs GMVCIY 2 v Ojf 9 k LEI 86 zp Ua 6 Rw K 9 i Vraf 6 Eg Nt 1 soq Z e 4 U 5 r 3_5 V 1 gq P Tna Y FC 1 e F 1 jbd 27 to S Dg" />
       <item value="org.thymeleaf.exceptions.TemplateInputException: Error resolving template [web/wxConfig/getWxConfigs], template might not exist or might not be accessible by any of the configured Template Resolvers" />
       <item value="Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateInputException: Error resolving template [web/wxConfig/getWxConfigs], template might not exist or might not be accessible by any of the configured Template Resolvers] with root cause org.thymeleaf.exceptions.TemplateInputException: Error resolving template [web/wxConfig/getWxConfigs], template might not exist or might not be accessible by any of the configured Template Resolvers" />
       <item value="七月 13, 2020 3:49:41 下午 org.apache.catalina.core.StandardWrapperValve invoke 严重: Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateInputException: Error resolving template [web/wxConfig/getWxConfigs], template might not exist or might not be accessible by any of the configured Template Resolvers] with root cause org.thymeleaf.exceptions.TemplateInputException: Error resolving template [web/wxConfig/getWxConfigs], template might not exist or might not be accessible by any of the configured Template Resolvers" />
@@ -21,8 +22,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE" value="20" />
+        <entry key="ENGLISH" value="25" />
       </map>
     </option>
   </component>
