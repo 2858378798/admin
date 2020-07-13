@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <histories>
       <item value="Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateInputException: Error resolving template [web/wxConfig/getWxConfig], template might not exist or might not be accessible by any of the configured Template Resolvers] with root cause org.thymeleaf.exceptions.TemplateInputException: Error resolving template [web/wxConfig/getWxConfig], template might not exist or might not be accessible by any of the configured Template Resolvers" />
+      <item value="org.apache.catalina.core.StandardWrapperValve invoke" />
+      <item value="七月 13, 2020 10:10:16 上午 org.apache.catalina.core.StandardWrapperValve invoke 严重: Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateInputException: Error resolving template [web/wxConfig/getWxConfig], template might not exist or might not be accessible by any of the configured Template Resolvers] with root cause org.thymeleaf.exceptions.TemplateInputException: Error resolving template [web/wxConfig/getWxConfig], template might not exist or might not be accessible by any of the configured Template Resolvers" />
+      <item value="严重: Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateInputException: Error resolving template [web/wxConfig/getWxConfig], template might not exist or might not be accessible by any of the configured Template Resolvers] with root cause org.thymeleaf.exceptions.TemplateInputException: Error resolving template [web/wxConfig/getWxConfig], template might not exist or might not be accessible by any of the configured Template Resolvers" />
       <item value="七月 09, 2020 10:07:21 上午 org.apache.catalina.core.StandardWrapperValve invoke 严重: Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NumberFormatException: For input string: &quot;2020070800055&quot;] with root cause java.lang.NumberFormatException: For input string: &quot;2020070800055&quot;" />
       <item value="; bad SQL grammar []; nested exception is com.microsoft.sqlserver.jdbc.SQLServerException: 对象名 'SBK_COPTD' 无效。] with root cause com.microsoft.sqlserver.jdbc.SQLServerException: 对象名 'SBK_COPTD' 无效。" />
       <item value="For more information about the errors and possible solutions, please read the following articles:" />
@@ -15,8 +18,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="18" />
       </map>
     </option>
   </component>
