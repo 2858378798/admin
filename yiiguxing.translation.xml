@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'createTime' in 'class java.lang.String'" />
+      <item value="org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'createtime' in 'class java.lang.String'" />
+      <item value="org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'create_time' in 'class java.lang.String'" />
       <item value="# Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect datetime value: 'o4ZEB5eCDXGoF5VtMfOmj8uSNSGM' for column 'create_time' at row 1 ; Data truncation: Incorrect datetime value: 'o4ZEB5eCDXGoF5VtMfOmj8uSNSGM' for column 'create_time' at row 1; nested exception is com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect datetime value: 'o4ZEB5eCDXGoF5VtMfOmj8uSNSGM' for column 'create_time' at row 1] with root cause" />
       <item value="com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect datetime value: 'o4ZEB5eCDXGoF5VtMfOmj8uSNSGM' for column 'create_time' at row 1" />
       <item value="org.apache.ibatis.binding.BindingException: Mapper method 'cn.lastwhisper.springbootwx.mapper.UserMapper.update' has an unsupported return type: class cn.lastwhisper.springbootwx.pojo.User" />
@@ -32,8 +35,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="45" />
       </map>
     </option>
   </component>
