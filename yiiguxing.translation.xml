@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'createtime' in 'class cn.lastwhisper.springbootwx.pojo.User'" />
+      <item value="org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'openid' in 'class cn.lastwhisper.springbootwx.pojo.User'" />
       <item value="com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect datetime value: 'o4ZEB5eCDXGoF5VtMfOmj8uSNSGM' for column 'create_time' at row 1" />
       <item value="Data truncation: Incorrect datetime value: 'o4ZEB5eCDXGoF5VtMfOmj8uSNSGM' for column 'create_time' at row 1; nested exception is com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect datetime value: 'o4ZEB5eCDXGoF5VtMfOmj8uSNSGM' for column 'create_time' at row 1] with root cause com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect datetime value: 'o4ZEB5eCDXGoF5VtMfOmj8uSNSGM' for column 'create_time' at row 1" />
       <item value="Data truncation: Incorrect datetime value: 'o4ZEB5eCDXGoF5VtMfOmj8uSNSGM' for column 'create_time' at row 1; nested exception is com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect datetime value: 'o4ZEB5eCDXGoF5VtMfOmj8uSNSGM' for column 'create_time' at row 1] with root cause" />
@@ -12,7 +14,6 @@
       <item value="org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'create_time' in 'class java.lang.String'" />
       <item value="# Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect datetime value: 'o4ZEB5eCDXGoF5VtMfOmj8uSNSGM' for column 'create_time' at row 1 ; Data truncation: Incorrect datetime value: 'o4ZEB5eCDXGoF5VtMfOmj8uSNSGM' for column 'create_time' at row 1; nested exception is com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect datetime value: 'o4ZEB5eCDXGoF5VtMfOmj8uSNSGM' for column 'create_time' at row 1] with root cause" />
       <item value="org.apache.ibatis.binding.BindingException: Mapper method 'cn.lastwhisper.springbootwx.mapper.UserMapper.update' has an unsupported return type: class cn.lastwhisper.springbootwx.pojo.User" />
-      <item value="org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'createtime' in 'class cn.lastwhisper.springbootwx.pojo.User'" />
       <item value="org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'create_time' in 'class cn.lastwhisper.springbootwx.pojo.User'" />
       <item value="java.lang.ClassCastException: java.lang.String cannot be cast to java.lang.Integer" />
       <item value="java.lang.ClassCastException: java.util.HashMap cannot be cast to cn.lastwhisper.springbootwx.pojo.User at com.sun.proxy.$Proxy57.openid(Unknown Source) ~[na:na]" />
@@ -40,8 +41,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="54" />
       </map>
     </option>
   </component>
