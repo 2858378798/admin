@@ -6,6 +6,7 @@
       <mapping pattern="UserMapper" type="XML" />
       <mapping pattern="SaleMapper" type="XML" />
       <mapping pattern="aaa" type="XML" />
+      <mapping pattern="logback" type="spring.factories" />
     </extensionMap>
   </component>
 </application>
