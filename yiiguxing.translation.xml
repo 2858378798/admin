@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Logging initialized using 'class org.apache.ibatis.logging.stdout.StdOutImpl' adapter." />
       <item value="org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'createtime' in 'class cn.lastwhisper.springbootwx.pojo.User'" />
       <item value="org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'openid' in 'class cn.lastwhisper.springbootwx.pojo.User'" />
       <item value="com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect datetime value: 'o4ZEB5eCDXGoF5VtMfOmj8uSNSGM' for column 'create_time' at row 1" />
@@ -41,8 +42,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="55" />
       </map>
     </option>
   </component>
