@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5890cdf2] was not registered for synchronization because synchronization is not active Creating a new SqlSession" />
       <item value="Logging initialized using 'class org.apache.ibatis.logging.stdout.StdOutImpl' adapter." />
       <item value="org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'createtime' in 'class cn.lastwhisper.springbootwx.pojo.User'" />
       <item value="org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'openid' in 'class cn.lastwhisper.springbootwx.pojo.User'" />
@@ -42,8 +43,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="51" />
+        <entry key="ENGLISH" value="56" />
       </map>
     </option>
   </component>
