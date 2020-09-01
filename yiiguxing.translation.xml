@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invocation of init method failed; nested exception is org.springframework.data.redis.connection.PoolException: Could not get a resource from the pool; nested exception is io.lettuce.core.RedisConnectionException: Unable to connect to localhost:6379" />
+      <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sysConfigController': Unsatisfied dependency expressed through field 'configService'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sysConfigServiceImpl': Invocation of init method failed; nested exception is org.springframework.data.redis.connection.PoolException: Could not get a resource from the pool; nested exception is io.lettuce.core.RedisConnectionException: Unable to connect to localhost:6379 at org.springframework.beans." />
       <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sysConfigController': Unsatisfied dependency expressed through field 'configService'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sysConfigServiceImpl': Invocation of init method failed; nested exception is org.springframework.data.redis.connection.PoolException: Could not get a resource from the pool; nested exception is io.lettuce.core.RedisConnectionException: Unable to connect to localhost:6379" />
       <item value="### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLSyntaxErrorException: Unknown database 'ry-vue'" />
       <item value="15:17:41.008 [restartedMain] ERROR c.a.d.p.DruidDataSource - [init,922] - init datasource error, url: jdbc:mysql://localhost:3306/ry-vue?useUnicode=true&amp;characterEncoding=utf8&amp;zeroDateTimeBehavior=convertToNull&amp;useSSL=true&amp;serverTimezone=GMT%2B8 java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)" />
@@ -46,8 +48,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="61" />
       </map>
     </option>
   </component>
