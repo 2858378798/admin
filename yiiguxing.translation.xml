@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.apache.shiro.UnavailableSecurityManagerException: No SecurityManager accessible to the calling code, either bound to the org.apache.shiro.util.ThreadContext or as a vm static singleton. This is an invalid application configuration." />
       <item value="16:17 Lombok Requires Annotation Processing Annotation processing seems to be disabled for the project &quot;PermissonManagementPlatForm&quot;. But lombok is on classpath. For the lombok plugin to function correctly, please enable it under &quot;Settings &gt; Build &gt; Compiler &gt; Annotation Processors&quot;" />
       <item value="Compilation completed successfully in 11 s 131 ms" />
       <item value="Lombok Requires Annotation Processing Annotation processing seems to be disabled for the project &quot;PermissonManagementPlatForm&quot;. But lombok is on classpath. For the lombok plugin to function correctly, please enable it under &quot;Settings &gt; Build &gt; Compiler &gt; Annotation Processors&quot;" />
@@ -50,12 +51,11 @@
       <item value="Caused by: org.apache.catalina.LifecycleException: Failed to start component [NonLoginAuthenticator[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]]" />
       <item value="Failed to execute goal org.apache.maven.plugins:maven-war-plugin:3.2.3:war (default-war) on project demo: Error assembling WAR: webxml attribute is required (or pre-existing WEB-INF/web.xml if executing in update mode) -&gt; [Help 1]" />
       <item value="[ERROR] Failed to execute goal org.apache.maven.plugins:maven-war-plugin:3.2.3:war (default-war) on project demo: Error assembling WAR: webxml attribute is required (or pre-existing WEB-INF/web.xml if executing in update mode) -&gt; [Help 1]" />
-      <item value="For more information about the errors and possible solutions, please read the following articles" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="69" />
       </map>
     </option>
   </component>
