@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to execute goal org.mybatis.generator:mybatis-generator-maven-plugin:1.3.2:generate (default-cli) on project mmall: Execution default-cli of goal org.mybatis.generator:mybatis-generator-maven-plugin:1.3.2:generate failed: Cannot resolve classpath entry: /Users/imooc/mysql-connector-java-5.1.6-bin.jar -&gt; [Help 1] [ERROR]" />
+      <item value="[ERROR] Failed to execute goal org.mybatis.generator:mybatis-generator-maven-plugin:1.3.2:generate (default-cli) on project mmall: Execution default-cli of goal org.mybatis.generator:mybatis-generator-maven-plugin:1.3.2:generate failed: Cannot resolve classpath entry: /Users/imooc/mysql-connector-java-5.1.6-bin.jar -&gt; [Help 1] [ERROR] [ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch. [ERROR] Re-run Maven using the -X switch to enable full debug logging. [ERROR] [ERROR] For more information about the errors and possible solutions, please read the following articles: [ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/PluginExecutionException" />
       <item value="org.apache.shiro.UnavailableSecurityManagerException: No SecurityManager accessible to the calling code, either bound to the org.apache.shiro.util.ThreadContext or as a vm static singleton. This is an invalid application configuration." />
       <item value="16:17 Lombok Requires Annotation Processing Annotation processing seems to be disabled for the project &quot;PermissonManagementPlatForm&quot;. But lombok is on classpath. For the lombok plugin to function correctly, please enable it under &quot;Settings &gt; Build &gt; Compiler &gt; Annotation Processors&quot;" />
       <item value="Compilation completed successfully in 11 s 131 ms" />
@@ -49,13 +51,11 @@
       <item value="java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [NonLoginAuthenticator[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]] at java.util.concurrent.FutureTask.report(FutureTask.java:122) at java.util.concurrent.FutureTask.get(FutureTask.java:192)" />
       <item value="A child container failed during start" />
       <item value="Caused by: org.apache.catalina.LifecycleException: Failed to start component [NonLoginAuthenticator[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]]" />
-      <item value="Failed to execute goal org.apache.maven.plugins:maven-war-plugin:3.2.3:war (default-war) on project demo: Error assembling WAR: webxml attribute is required (or pre-existing WEB-INF/web.xml if executing in update mode) -&gt; [Help 1]" />
-      <item value="[ERROR] Failed to execute goal org.apache.maven.plugins:maven-war-plugin:3.2.3:war (default-war) on project demo: Error assembling WAR: webxml attribute is required (or pre-existing WEB-INF/web.xml if executing in update mode) -&gt; [Help 1]" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="71" />
       </map>
     </option>
   </component>
